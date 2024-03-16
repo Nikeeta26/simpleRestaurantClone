@@ -1,0 +1,70 @@
+.stylesheet{
+height:100px;
+width:100px;
+}
+.navbar{
+	position:sticky;
+	
+}
+.container{
+	margin-top:10px;
+}
+.carousel-inner{
+	height:500px;
+}
+/*.carousel-item {
+	display:flex ;
+	justify-content:center;
+	align-item:center;
+}*/
+.d-block {
+	height:100%;
+}
+.nav-link{
+	margin-right:30px;
+}
+.navbar-brand{
+	margin-left:10px;
+	padding-right:30px;
+}
+nav{
+	
+    position: fixed;
+   
+    z-index: 1;
+	
+}
+.fa-solid {
+	
+	
+}	
+
+/*****************menu*******************/
+
+.shop-section{
+	display:flex;
+	flex-direction:column;
+    background-color:rgba(0,0,0,0.9);
+    color:white; 	
+	align-items:center;
+	padding:20px;
+	
+}
+.box{
+	background-color:white;
+	padding:20px 0px 15px;
+	margin-top:10px;
+	display:flex;
+	flex-wrap:wrap;
+	justify-content:space-evenly;
+	box-sizing:bolder-box;
+}
+.box img{
+	width:460px;
+	height:340px;
+	margin:20px;
+}
+
+.box h2{
+	color:pink;
+}
